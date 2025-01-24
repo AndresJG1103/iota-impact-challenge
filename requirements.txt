@@ -4,3 +4,4 @@ djangorestframework==3.15.2
 requests==2.32.3
 python-dotenv==1.0.1
 psycopg2==2.9.10
+requests-mock==1.12.1
