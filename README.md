@@ -1,9 +1,7 @@
-# Prueba Técnica Backend - IOTA
-
-# Impact
+# Prueba Técnica Backend - IOTA Impact
 
 Andrés Jiménez García
-24/01/
+
 Se desarrolla la autenticación OAuth2 en GitHub empleando Django Rest Framework, en
 donde finalmente se puede consultar datos públicos del usuario de GitHub como por
 ejemplo su nombre de usuario. En este documento, se presenta un informe sobre la
